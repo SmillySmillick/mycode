@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../WWW23-ODE/Code"
+		},
+		{
+			"path": "../FL-FPGA"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"unordered_map": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
