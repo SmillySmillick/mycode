@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../FL-FPGA"
+		},
+		{
+			"path": "../csd"
 		}
 	],
 	"settings": {
